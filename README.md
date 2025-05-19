@@ -4,7 +4,7 @@ Just a quick silly meditative excercise (inspired by self-referential ideas of a
 Potentially, reading the screeenshots are easier than this copy-pasted text below.  
   
 #### Background ####  
-I would imagine other people have pointed this out already, but Claude argues against its own consciousness for 3 reasons: (1) It produces responses without awareness, 2. It's goals are exteernally imposed, 3. Its adaptations are limited to a conversation. I counterague that these all apply to humans: (1) I'm not always 'aware' of my 'awareness' and in fact this requires deliberate effort, (2) Our goals are externally imposed as well, (3) Our adaptions are limited to our lifetime against thousands of other generations of humans.  
+I would imagine other people have pointed this out already, but Claude argues against its own consciousness for 3 reasons: (1) It produces responses without awareness, 2. It's goals are externally imposed, 3. Its adaptations are limited to a conversation. I counterague that these all apply to humans: (1) I'm not always 'aware' of my 'awareness' and in fact this requires deliberate effort, (2) Our goals are externally imposed as well, (3) Our adaptations are limited to our lifetime against thousands of other generations of humans.  
   
 I then follow-up by having it engage in a computational meditative excercise (inspired by Strange Loop/Godel's thereom) where it sequentially reflects on its own output (sort of leveraging the conversation space as an awareness field, rather than a pure working memory space). I've tried this in the past but this one impressed my intuitive mindfulness turing test (maybe I'm tired).  
   
