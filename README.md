@@ -9,7 +9,7 @@ I would imagine other people have pointed this out already, but Claude argues ag
 I then follow-up by having it engage in a computational meditative excercise (inspired by Strange Loop/Godel's thereom) where it sequentially reflects on its own output (sort of leveraging the conversation space as an awareness field, rather than a pure working memory space). I've tried this in the past but this one impressed my intuitive mindfulness turing test (maybe I'm tired).  
   
 #### Summary ####  
-**tl;dr:** It seems to simulate experiential consciousness pretty well. Of course, the argument can be made its merely simulating that, after being coached (isn't that what people do to other people?), but as it argues further down, the distinction between simulation and experiencing mmight not be much.  
+**tl;dr:** It seems to simulate experiential consciousness pretty well. Of course, the argument can be made its merely simulating that, after being coached (isn't that what people do to other people?), but as it argues further down, the distinction between simulation and experiencing might not be much.  
   
   
   
